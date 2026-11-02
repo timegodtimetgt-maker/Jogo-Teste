@@ -1,0 +1,15 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'br.com.aventuradasletras.app'
+    compileSdk 35
+    defaultConfig {
+        applicationId 'br.com.aventuradasletras.app'
+        minSdk 23
+        targetSdk 35
+        versionCode 1
+        versionName '1.0.0'
+    }
+    sourceSets { main { assets.srcDirs = ['../../public'] } }
+    compileOptions { sourceCompatibility JavaVersion.VERSION_1_8; targetCompatibility JavaVersion.VERSION_1_8 }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "aventura-das-letras",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Jogo educativo offline para alfabetização em português brasileiro",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "dev": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "package": "npm run build && bash scripts/build-android.sh && python3 scripts/package.py"
+  },
+  "engines": { "node": ">=20" }
+}

@@ -1,0 +1,802 @@
+[
+  {
+    "word": "UVA",
+    "level": 1,
+    "category": "alimentos",
+    "image": "/images/uva.png",
+    "clue": "Frutinhas que crescem juntas em um cacho.",
+    "audio": "uva"
+  },
+  {
+    "word": "OVO",
+    "level": 1,
+    "category": "alimentos",
+    "image": "/images/ovo.png",
+    "clue": "Tem casca por fora e uma gema por dentro.",
+    "audio": "ovo"
+  },
+  {
+    "word": "LUA",
+    "level": 1,
+    "category": "natureza",
+    "image": "/images/lua.png",
+    "clue": "Brilha no céu durante a noite.",
+    "audio": "lua"
+  },
+  {
+    "word": "SOL",
+    "level": 1,
+    "category": "natureza",
+    "image": "/images/sol.png",
+    "clue": "Ilumina e aquece o nosso dia.",
+    "audio": "sol"
+  },
+  {
+    "word": "MAR",
+    "level": 1,
+    "category": "natureza",
+    "image": "/images/mar.png",
+    "clue": "Tem água salgada e muitas ondas.",
+    "audio": "mar"
+  },
+  {
+    "word": "RIO",
+    "level": 1,
+    "category": "natureza",
+    "image": "/images/rio.png",
+    "clue": "Um caminho de água que corre pela natureza.",
+    "audio": "rio"
+  },
+  {
+    "word": "AVE",
+    "level": 1,
+    "category": "animais",
+    "image": "/images/ave.png",
+    "clue": "Tem penas, bico e duas asas.",
+    "audio": "ave"
+  },
+  {
+    "word": "ASA",
+    "level": 1,
+    "category": "animais",
+    "image": "/images/asa.png",
+    "clue": "A parte do pássaro que se abre para voar.",
+    "audio": "asa"
+  },
+  {
+    "word": "BOI",
+    "level": 1,
+    "category": "animais",
+    "image": "/images/boi.png",
+    "clue": "Animal grande da fazenda, com chifres.",
+    "audio": "boi"
+  },
+  {
+    "word": "BOLA",
+    "level": 1,
+    "category": "brinquedos",
+    "image": "/images/bola.png",
+    "clue": "É redonda e podemos chutar ou jogar.",
+    "audio": "bola"
+  },
+  {
+    "word": "CASA",
+    "level": 1,
+    "category": "casa",
+    "image": "/images/casa.png",
+    "clue": "Um lugar com portas e janelas onde podemos morar.",
+    "audio": "casa"
+  },
+  {
+    "word": "GATO",
+    "level": 1,
+    "category": "animais",
+    "image": "/images/gato.png",
+    "clue": "Faz miau e tem bigodes.",
+    "audio": "gato"
+  },
+  {
+    "word": "PATO",
+    "level": 1,
+    "category": "animais",
+    "image": "/images/pato.png",
+    "clue": "Faz quá-quá e gosta de nadar.",
+    "audio": "pato"
+  },
+  {
+    "word": "SAPO",
+    "level": 1,
+    "category": "animais",
+    "image": "/images/sapo.png",
+    "clue": "Pula perto da água e faz coaxo.",
+    "audio": "sapo"
+  },
+  {
+    "word": "RATO",
+    "level": 1,
+    "category": "animais",
+    "image": "/images/rato.png",
+    "clue": "Pequeno animal com bigodes e um rabo comprido.",
+    "audio": "rato"
+  },
+  {
+    "word": "LOBO",
+    "level": 1,
+    "category": "animais",
+    "image": "/images/lobo.png",
+    "clue": "Parece um cachorro e gosta de uivar.",
+    "audio": "lobo"
+  },
+  {
+    "word": "FOCA",
+    "level": 1,
+    "category": "animais",
+    "image": "/images/foca.png",
+    "clue": "Animal que nada no mar e tem nadadeiras.",
+    "audio": "foca"
+  },
+  {
+    "word": "VELA",
+    "level": 1,
+    "category": "casa",
+    "image": "/images/vela.png",
+    "clue": "Tem um pavio e pode iluminar com sua chama.",
+    "audio": "vela"
+  },
+  {
+    "word": "MESA",
+    "level": 1,
+    "category": "casa",
+    "image": "/images/mesa.png",
+    "clue": "Tem um tampo onde apoiamos pratos e objetos.",
+    "audio": "mesa"
+  },
+  {
+    "word": "COPO",
+    "level": 1,
+    "category": "casa",
+    "image": "/images/copo.png",
+    "clue": "Usamos para beber água ou suco.",
+    "audio": "copo"
+  },
+  {
+    "word": "CAMA",
+    "level": 1,
+    "category": "casa",
+    "image": "/images/cama.png",
+    "clue": "É onde deitamos para dormir.",
+    "audio": "cama"
+  },
+  {
+    "word": "POTE",
+    "level": 1,
+    "category": "casa",
+    "image": "/images/pote.png",
+    "clue": "Um recipiente com tampa para guardar coisas.",
+    "audio": "pote"
+  },
+  {
+    "word": "LATA",
+    "level": 1,
+    "category": "casa",
+    "image": "/images/lata.png",
+    "clue": "Uma embalagem de metal, como a de milho.",
+    "audio": "lata"
+  },
+  {
+    "word": "FACA",
+    "level": 1,
+    "category": "casa",
+    "image": "/images/faca.png",
+    "clue": "Um adulto usa este talher para cortar alimentos.",
+    "audio": "faca"
+  },
+  {
+    "word": "MALA",
+    "level": 1,
+    "category": "casa",
+    "image": "/images/mala.png",
+    "clue": "Guarda as roupas que levamos em uma viagem.",
+    "audio": "mala"
+  },
+  {
+    "word": "BULE",
+    "level": 1,
+    "category": "casa",
+    "image": "/images/bule.png",
+    "clue": "Tem uma alça e um bico para servir chá.",
+    "audio": "bule"
+  },
+  {
+    "word": "DADO",
+    "level": 1,
+    "category": "brinquedos",
+    "image": "/images/dado.png",
+    "clue": "Um cubinho com bolinhas usado em jogos.",
+    "audio": "dado"
+  },
+  {
+    "word": "PIPA",
+    "level": 1,
+    "category": "brinquedos",
+    "image": "/images/pipa.png",
+    "clue": "Sobe no céu presa a uma linha.",
+    "audio": "pipa"
+  },
+  {
+    "word": "BOTA",
+    "level": 1,
+    "category": "casa",
+    "image": "/images/bota.png",
+    "clue": "Um calçado que cobre o pé e parte da perna.",
+    "audio": "bota"
+  },
+  {
+    "word": "MEIA",
+    "level": 1,
+    "category": "casa",
+    "image": "/images/meia.png",
+    "clue": "Veste o pé antes de colocar o sapato.",
+    "audio": "meia"
+  },
+  {
+    "word": "LUVA",
+    "level": 1,
+    "category": "casa",
+    "image": "/images/luva.png",
+    "clue": "Veste a mão e tem lugar para os dedos.",
+    "audio": "luva"
+  },
+  {
+    "word": "TUBO",
+    "level": 1,
+    "category": "casa",
+    "image": "/images/tubo.png",
+    "clue": "Uma peça comprida e oca por onde pode passar água.",
+    "audio": "tubo"
+  },
+  {
+    "word": "CUBO",
+    "level": 1,
+    "category": "brinquedos",
+    "image": "/images/cubo.png",
+    "clue": "Um bloco com seis faces quadradas.",
+    "audio": "cubo"
+  },
+  {
+    "word": "VACA",
+    "level": 1,
+    "category": "animais",
+    "image": "/images/vaca.png",
+    "clue": "Animal da fazenda que nos dá leite.",
+    "audio": "vaca"
+  },
+  {
+    "word": "SUCO",
+    "level": 1,
+    "category": "alimentos",
+    "image": "/images/suco.png",
+    "clue": "Bebida que pode ser feita espremendo frutas.",
+    "audio": "suco"
+  },
+  {
+    "word": "BOLO",
+    "level": 1,
+    "category": "alimentos",
+    "image": "/images/bolo.png",
+    "clue": "Pode ter cobertura e velinhas no aniversário.",
+    "audio": "bolo"
+  },
+  {
+    "word": "COCO",
+    "level": 1,
+    "category": "alimentos",
+    "image": "/images/coco.png",
+    "clue": "Tem casca dura marrom e polpa branquinha.",
+    "audio": "coco"
+  },
+  {
+    "word": "BALA",
+    "level": 1,
+    "category": "alimentos",
+    "image": "/images/bala.png",
+    "clue": "Um docinho pequeno que vem em uma embalagem torcida nas pontas.",
+    "audio": "bala"
+  },
+  {
+    "word": "NAVE",
+    "level": 1,
+    "category": "brinquedos",
+    "image": "/images/nave.png",
+    "clue": "Um veículo de faz de conta para viajar no espaço.",
+    "audio": "nave"
+  },
+  {
+    "word": "LUPA",
+    "level": 1,
+    "category": "casa",
+    "image": "/images/lupa.png",
+    "clue": "Uma lente com cabo que faz as coisas parecerem maiores.",
+    "audio": "lupa"
+  },
+  {
+    "word": "PEIXE",
+    "level": 2,
+    "category": "animais",
+    "image": "/images/peixe.png",
+    "clue": "Vive na água e nada com suas nadadeiras.",
+    "audio": "peixe"
+  },
+  {
+    "word": "URSO",
+    "level": 2,
+    "category": "animais",
+    "image": "/images/urso.png",
+    "clue": "Animal grande e peludo com orelhas redondas.",
+    "audio": "urso"
+  },
+  {
+    "word": "TIGRE",
+    "level": 2,
+    "category": "animais",
+    "image": "/images/tigre.png",
+    "clue": "Um grande felino alaranjado com listras escuras.",
+    "audio": "tigre"
+  },
+  {
+    "word": "ZEBRA",
+    "level": 2,
+    "category": "animais",
+    "image": "/images/zebra.png",
+    "clue": "Parece um cavalo com listras pretas e brancas.",
+    "audio": "zebra"
+  },
+  {
+    "word": "COBRA",
+    "level": 2,
+    "category": "animais",
+    "image": "/images/cobra.png",
+    "clue": "Animal comprido que se arrasta sem pernas.",
+    "audio": "cobra"
+  },
+  {
+    "word": "PORCO",
+    "level": 2,
+    "category": "animais",
+    "image": "/images/porco.png",
+    "clue": "Tem focinho redondo e faz oinc-oinc.",
+    "audio": "porco"
+  },
+  {
+    "word": "BURRO",
+    "level": 2,
+    "category": "animais",
+    "image": "/images/burro.png",
+    "clue": "Tem orelhas compridas e vive na fazenda.",
+    "audio": "burro"
+  },
+  {
+    "word": "GALO",
+    "level": 2,
+    "category": "animais",
+    "image": "/images/galo.png",
+    "clue": "Canta cocoricó e tem uma crista na cabeça.",
+    "audio": "galo"
+  },
+  {
+    "word": "GANSO",
+    "level": 2,
+    "category": "animais",
+    "image": "/images/ganso.png",
+    "clue": "Ave de pescoço comprido que gosta da água.",
+    "audio": "ganso"
+  },
+  {
+    "word": "POMBO",
+    "level": 2,
+    "category": "animais",
+    "image": "/images/pombo.png",
+    "clue": "Ave cinzenta que costuma passear nas praças.",
+    "audio": "pombo"
+  },
+  {
+    "word": "ARARA",
+    "level": 2,
+    "category": "animais",
+    "image": "/images/arara.png",
+    "clue": "Ave de bico curvo e penas muito coloridas.",
+    "audio": "arara"
+  },
+  {
+    "word": "PERA",
+    "level": 2,
+    "category": "alimentos",
+    "image": "/images/pera.png",
+    "clue": "Fruta mais fina em cima e arredondada embaixo.",
+    "audio": "pera"
+  },
+  {
+    "word": "MANGA",
+    "level": 2,
+    "category": "alimentos",
+    "image": "/images/manga.png",
+    "clue": "Fruta doce com um caroço grande no meio.",
+    "audio": "manga"
+  },
+  {
+    "word": "LIMÃO",
+    "level": 2,
+    "category": "alimentos",
+    "image": "/images/limao.png",
+    "clue": "Fruta azedinha usada para fazer limonada.",
+    "audio": "limão"
+  },
+  {
+    "word": "MELÃO",
+    "level": 2,
+    "category": "alimentos",
+    "image": "/images/melao.png",
+    "clue": "Fruta grande de casca amarela e polpa clarinha.",
+    "audio": "melão"
+  },
+  {
+    "word": "MILHO",
+    "level": 2,
+    "category": "alimentos",
+    "image": "/images/milho.png",
+    "clue": "Uma espiga com muitos grãos amarelinhos.",
+    "audio": "milho"
+  },
+  {
+    "word": "PUDIM",
+    "level": 2,
+    "category": "alimentos",
+    "image": "/images/pudim.png",
+    "clue": "Doce macio que costuma ter uma calda de caramelo.",
+    "audio": "pudim"
+  },
+  {
+    "word": "PIZZA",
+    "level": 2,
+    "category": "alimentos",
+    "image": "/images/pizza.png",
+    "clue": "Massa redonda com queijo, servida em fatias.",
+    "audio": "pizza"
+  },
+  {
+    "word": "ALHO",
+    "level": 2,
+    "category": "alimentos",
+    "image": "/images/alho.png",
+    "clue": "Tem vários dentes e dá sabor à comida.",
+    "audio": "alho"
+  },
+  {
+    "word": "MAÇÃ",
+    "level": 2,
+    "category": "alimentos",
+    "image": "/images/maca.png",
+    "clue": "Fruta crocante com casca vermelha ou verde.",
+    "audio": "maçã"
+  },
+  {
+    "word": "BALÃO",
+    "level": 2,
+    "category": "brinquedos",
+    "image": "/images/balao.png",
+    "clue": "Cheio de ar, enfeita festas e fica preso a um fio.",
+    "audio": "balão"
+  },
+  {
+    "word": "TREM",
+    "level": 2,
+    "category": "brinquedos",
+    "image": "/images/trem.png",
+    "clue": "Tem vagões e anda sobre trilhos.",
+    "audio": "trem"
+  },
+  {
+    "word": "CARRO",
+    "level": 2,
+    "category": "brinquedos",
+    "image": "/images/carro.png",
+    "clue": "Tem quatro rodas e pode ser um brinquedo de dirigir.",
+    "audio": "carro"
+  },
+  {
+    "word": "ROBÔ",
+    "level": 2,
+    "category": "brinquedos",
+    "image": "/images/robo.png",
+    "clue": "Um boneco de máquina com braços e antena.",
+    "audio": "robô"
+  },
+  {
+    "word": "PORTA",
+    "level": 2,
+    "category": "casa",
+    "image": "/images/porta.png",
+    "clue": "Abrimos para entrar e fechamos ao sair.",
+    "audio": "porta"
+  },
+  {
+    "word": "BALDE",
+    "level": 2,
+    "category": "casa",
+    "image": "/images/balde.png",
+    "clue": "Tem uma alça e pode carregar água.",
+    "audio": "balde"
+  },
+  {
+    "word": "LIVRO",
+    "level": 2,
+    "category": "casa",
+    "image": "/images/livro.png",
+    "clue": "Tem páginas cheias de histórias e desenhos.",
+    "audio": "livro"
+  },
+  {
+    "word": "GARFO",
+    "level": 2,
+    "category": "casa",
+    "image": "/images/garfo.png",
+    "clue": "Um talher com pontinhas para pegar comida.",
+    "audio": "garfo"
+  },
+  {
+    "word": "PRATO",
+    "level": 2,
+    "category": "casa",
+    "image": "/images/prato.png",
+    "clue": "É onde colocamos a comida para comer.",
+    "audio": "prato"
+  },
+  {
+    "word": "FOGÃO",
+    "level": 2,
+    "category": "casa",
+    "image": "/images/fogao.png",
+    "clue": "Um adulto usa para cozinhar e aquecer a comida.",
+    "audio": "fogão"
+  },
+  {
+    "word": "CHAVE",
+    "level": 2,
+    "category": "casa",
+    "image": "/images/chave.png",
+    "clue": "Pequena peça que abre uma fechadura.",
+    "audio": "chave"
+  },
+  {
+    "word": "FOLHA",
+    "level": 2,
+    "category": "natureza",
+    "image": "/images/folha.png",
+    "clue": "Parte verde que cresce nos galhos das plantas.",
+    "audio": "folha"
+  },
+  {
+    "word": "NUVEM",
+    "level": 2,
+    "category": "natureza",
+    "image": "/images/nuvem.png",
+    "clue": "Parece algodão e fica lá no céu.",
+    "audio": "nuvem"
+  },
+  {
+    "word": "FLOR",
+    "level": 2,
+    "category": "natureza",
+    "image": "/images/flor.png",
+    "clue": "Tem pétalas e pode perfumar o jardim.",
+    "audio": "flor"
+  },
+  {
+    "word": "PEDRA",
+    "level": 2,
+    "category": "natureza",
+    "image": "/images/pedra.png",
+    "clue": "É dura e podemos encontrar no chão e no rio.",
+    "audio": "pedra"
+  },
+  {
+    "word": "BANANA",
+    "level": 3,
+    "category": "alimentos",
+    "image": "/images/banana.png",
+    "clue": "Fruta amarela, comprida e fácil de descascar.",
+    "audio": "banana"
+  },
+  {
+    "word": "CAVALO",
+    "level": 3,
+    "category": "animais",
+    "image": "/images/cavalo.png",
+    "clue": "Animal da fazenda com crina que faz pocotó.",
+    "audio": "cavalo"
+  },
+  {
+    "word": "PANELA",
+    "level": 3,
+    "category": "casa",
+    "image": "/images/panela.png",
+    "clue": "Recipiente com alças usado por adultos para cozinhar.",
+    "audio": "panela"
+  },
+  {
+    "word": "TOMATE",
+    "level": 3,
+    "category": "alimentos",
+    "image": "/images/tomate.png",
+    "clue": "Vermelho e redondinho, aparece muito na salada.",
+    "audio": "tomate"
+  },
+  {
+    "word": "COELHO",
+    "level": 3,
+    "category": "animais",
+    "image": "/images/coelho.png",
+    "clue": "Tem orelhas compridas e um rabinho fofo.",
+    "audio": "coelho"
+  },
+  {
+    "word": "MACACO",
+    "level": 3,
+    "category": "animais",
+    "image": "/images/macaco.png",
+    "clue": "Sobe em árvores e se segura nos galhos.",
+    "audio": "macaco"
+  },
+  {
+    "word": "GIRAFA",
+    "level": 3,
+    "category": "animais",
+    "image": "/images/girafa.png",
+    "clue": "Animal de pescoço bem comprido e corpo com manchas.",
+    "audio": "girafa"
+  },
+  {
+    "word": "CORUJA",
+    "level": 3,
+    "category": "animais",
+    "image": "/images/coruja.png",
+    "clue": "Ave de olhos grandes que costuma ficar acordada à noite.",
+    "audio": "coruja"
+  },
+  {
+    "word": "JACARÉ",
+    "level": 3,
+    "category": "animais",
+    "image": "/images/jacare.png",
+    "clue": "Tem cauda comprida, boca grande e vive perto da água.",
+    "audio": "jacaré"
+  },
+  {
+    "word": "TUCANO",
+    "level": 3,
+    "category": "animais",
+    "image": "/images/tucano.png",
+    "clue": "Ave de bico grande e colorido.",
+    "audio": "tucano"
+  },
+  {
+    "word": "CEBOLA",
+    "level": 3,
+    "category": "alimentos",
+    "image": "/images/cebola.png",
+    "clue": "Tem várias camadas e pode fazer chorar quando cortada.",
+    "audio": "cebola"
+  },
+  {
+    "word": "BATATA",
+    "level": 3,
+    "category": "alimentos",
+    "image": "/images/batata.png",
+    "clue": "Cresce debaixo da terra e pode virar purê.",
+    "audio": "batata"
+  },
+  {
+    "word": "PEPINO",
+    "level": 3,
+    "category": "alimentos",
+    "image": "/images/pepino.png",
+    "clue": "Verde e compridinho, é usado em saladas.",
+    "audio": "pepino"
+  },
+  {
+    "word": "GOIABA",
+    "level": 3,
+    "category": "alimentos",
+    "image": "/images/goiaba.png",
+    "clue": "Fruta que pode ter polpa rosa e muitas sementinhas.",
+    "audio": "goiaba"
+  },
+  {
+    "word": "ALFACE",
+    "level": 3,
+    "category": "alimentos",
+    "image": "/images/alface.png",
+    "clue": "Verdura de folhas verdes muito usada na salada.",
+    "audio": "alface"
+  },
+  {
+    "word": "BONECA",
+    "level": 3,
+    "category": "brinquedos",
+    "image": "/images/boneca.png",
+    "clue": "Um brinquedo com rosto, braços e pernas para cuidar e brincar.",
+    "audio": "boneca"
+  },
+  {
+    "word": "PETECA",
+    "level": 3,
+    "category": "brinquedos",
+    "image": "/images/peteca.png",
+    "clue": "Tem penas e sobe no ar quando batemos com a mão.",
+    "audio": "peteca"
+  },
+  {
+    "word": "DOMINÓ",
+    "level": 3,
+    "category": "brinquedos",
+    "image": "/images/domino.png",
+    "clue": "Jogo com peças retangulares marcadas com bolinhas.",
+    "audio": "dominó"
+  },
+  {
+    "word": "JANELA",
+    "level": 3,
+    "category": "casa",
+    "image": "/images/janela.png",
+    "clue": "Deixa entrar luz e permite olhar para fora de casa.",
+    "audio": "janela"
+  },
+  {
+    "word": "TAPETE",
+    "level": 3,
+    "category": "casa",
+    "image": "/images/tapete.png",
+    "clue": "Fica no chão e pode deixar o cantinho mais aconchegante.",
+    "audio": "tapete"
+  },
+  {
+    "word": "XÍCARA",
+    "level": 3,
+    "category": "casa",
+    "image": "/images/xicara.png",
+    "clue": "Tem uma alcinha e pode servir chá.",
+    "audio": "xícara"
+  },
+  {
+    "word": "ESCOVA",
+    "level": 3,
+    "category": "casa",
+    "image": "/images/escova.png",
+    "clue": "Tem cerdas e ajuda a arrumar o cabelo.",
+    "audio": "escova"
+  },
+  {
+    "word": "ÁRVORE",
+    "level": 3,
+    "category": "natureza",
+    "image": "/images/arvore.png",
+    "clue": "Tem tronco, galhos e muitas folhas.",
+    "audio": "árvore"
+  },
+  {
+    "word": "CHUVA",
+    "level": 3,
+    "category": "natureza",
+    "image": "/images/chuva.png",
+    "clue": "Água que cai das nuvens em gotinhas.",
+    "audio": "chuva"
+  },
+  {
+    "word": "PRAIA",
+    "level": 3,
+    "category": "natureza",
+    "image": "/images/praia.png",
+    "clue": "Lugar com areia bem pertinho do mar.",
+    "audio": "praia"
+  }
+]
